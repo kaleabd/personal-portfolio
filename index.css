@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+    .neomorphism {
+        border-radius: 20px;
+        background: white;
+        box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+    }
+    .no-image {
+        pointer-events: none;
+    }
+}
