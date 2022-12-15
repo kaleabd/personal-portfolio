@@ -1,6 +1,6 @@
 import React from "react";
-import link from "./assets/link.svg"
-import git from "./assets/gitb.svg"
+import link from "../assets/link.svg"
+import git from "../assets/gitb.svg"
 
 export default function Card(props){
     return (
